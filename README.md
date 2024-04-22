@@ -4,7 +4,7 @@ Esta es una aplicación desarrollada en Java que utiliza Hibernate para gestiona
 
 ## Requisitos Previos
 
-Para ejecutar esta aplicación, necesitarás tener instalado:
+Para ejecutar esta aplicación, necesitaremos tener instalado:
 
 - Java Development Kit (JDK) 8 o superior.
 - XAMPP con MySQL.
@@ -12,14 +12,14 @@ Para ejecutar esta aplicación, necesitarás tener instalado:
 
 ## Configuración de la Base de Datos con XAMPP
 
-Antes de ejecutar la aplicación, asegúrate de tener XAMPP instalado y el servicio de MySQL en funcionamiento. Sigue estos pasos para configurar la base de datos:
+Antes de ejecutar la aplicación, nos aseguraremos de tener XAMPP instalado y el servicio de MySQL en funcionamiento. Sigue estos pasos para configurar la base de datos:
 
 1. Inicia XAMPP y asegúrate de que los servicios de Apache y MySQL estén activados desde el panel de control.
 2. Abre un navegador web y accede a [http://localhost/phpmyadmin](http://localhost/phpmyadmin). (Aqui verás como se creara la BBDD cuando ejecutemos el proyecto)
 
 ## Configuración de Hibernate
 
-La aplicación utiliza Hibernate para interactuar con la base de datos MySQL de XAMPP. Asegúrate de que la configuración de Hibernate en el archivo `hibernate.cfg.xml` coincida con la configuración de tu base de datos MySQL en XAMPP.
+La aplicación utiliza Hibernate para interactuar con la base de datos de XAMPP. Nos aseguraremos de que la configuración de Hibernate en el archivo `hibernate.cfg.xml` coincida con la configuración de la base de datos en XAMPP.
 
 ## Ejecución de la Aplicación en Eclipse
 
@@ -29,7 +29,7 @@ La aplicación utiliza Hibernate para interactuar con la base de datos MySQL de 
 
 ## Pruebas de Funcionalidad
 
-Para probar las funcionalidades de la aplicación, sigue las instrucciones en la consola de Eclipse. Las operaciones disponibles son:
+Para probar las funcionalidades de la aplicación, seguiremos las instrucciones en la consola de Eclipse. Las operaciones disponibles son:
 
 1. **Insertar Libro**: Permite al usuario agregar un nuevo libro al sistema proporcionando su título, autor y año de publicación. Los datos ingresados por el usuario se validan para garantizar la consistencia y precisión. Una vez validados, el libro se guarda en la base de datos y se confirma al usuario su inserción exitosa.
 
