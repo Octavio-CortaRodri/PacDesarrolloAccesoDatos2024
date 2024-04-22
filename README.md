@@ -36,7 +36,7 @@ La aplicación utiliza Hibernate para interactuar con la base de datos MySQL de 
 
 ## Pruebas de Funcionalidad
 
-Sigue las mismas podremos probar cada funcionalidad de la aplicación. Las operaciones son:
+Siguiendo las mismas instrucciones podremos probar cada funcionalidad de la aplicación. Las operaciones son:
 
 1. Insertar Libro
 Permite al usuario agregar un nuevo libro al sistema proporcionando su título, autor y año de publicación.
