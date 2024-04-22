@@ -15,7 +15,7 @@ Para ejecutar esta aplicación, necesitarás tener instalado:
 Antes de ejecutar la aplicación, asegúrate de tener XAMPP instalado y el servicio de MySQL en funcionamiento. Sigue estos pasos para configurar la base de datos:
 
 1. Inicia XAMPP y asegúrate de que los servicios de Apache y MySQL estén activados desde el panel de control.
-2. Abre un navegador web y accede a [http://localhost/phpmyadmin](http://localhost/phpmyadmin).
+2. Abre un navegador web y accede a [http://localhost/phpmyadmin](http://localhost/phpmyadmin). (Aqui veras como se crea la BBDD del proyecto con sus tablas)
 
 ## Configuración de Hibernate
 
