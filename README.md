@@ -16,7 +16,6 @@ Antes de ejecutar la aplicación, asegúrate de tener XAMPP instalado y el servi
 
 1. Inicia XAMPP y asegúrate de que los servicios de Apache y MySQL estén activados desde el panel de control.
 2. Abre un navegador web y accede a [http://localhost/phpmyadmin](http://localhost/phpmyadmin).
-3. En phpMyAdmin, crea una nueva base de datos para la aplicación de gestión de biblioteca.
 
 ## Configuración de Hibernate
 
