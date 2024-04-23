@@ -138,4 +138,5 @@ Para probar las funcionalidades de la aplicación, seguiremos las instrucciones 
 
 
 7. **Salir**: Cuando el usuario elige esta opción, indica su intención de salir del programa y finalizar la sesión. El sistema muestra un mensaje de despedida o confirmación para asegurarse de que el usuario realmente desea salir. Antes de salir, el sistema cierra todas las conexiones de base de datos y recursos utilizados para garantizar una terminación limpia. Se proporciona una experiencia de usuario clara y satisfactoria, asegurándose de que el usuario esté informado sobre el fin del programa.
+
 ![](https://github.com/Octavio-CortaRodri/PacDesarrolloAccesoDatos2024/blob/main/IMAGENES%20README.md/12.png)
